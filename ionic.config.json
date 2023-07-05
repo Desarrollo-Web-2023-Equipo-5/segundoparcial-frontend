@@ -1,0 +1,7 @@
+{
+  "name": "parcial-front",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
